@@ -1,5 +1,6 @@
 # QR Code Generator
 
+![Capture-2024-07-29-215253](https://github.com/user-attachments/assets/e7b544ee-f461-4d62-a2bc-938b811d5089)
 
 This project is a simple QR Code Generator web application that allows users to create QR codes from any text or URL. The application provides a straightforward interface for generating QR codes quickly and displays them on the screen. It utilizes a third-party API for QR code generation and features a clean, modern design.
 
